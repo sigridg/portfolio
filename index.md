@@ -29,4 +29,5 @@ The KPIs are used as part of the yearly report and evalutation of perfomance in 
 [Use of the indicators in the 2019 yearly report](https://arsrapport.innovasjonnorge.no/en/arsrapport-2019-eng/#side=en_514189_slide=1)
 ![](/images/Indicators.png)  
 
-### Restructuring and
+### Reducing volume and increasing quality of the yearly report
+As responible for the yearly reporting at Innovation Norway I had a personal mission to reduce the volume and increase the quality. When I started, the collection of yearly reporting to the ministries was around 750 pages. Included in this was verbose descriptions of services and activities that did not contribute to the governance prosess. Within three years we managed to reduce the volume to 250 pages and recievied feedback from the Ministries in the formal governance meeting that they perceived increased quality.
