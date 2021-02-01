@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Publications"
 permalink: /publications/
-
+---
 ## Recent publications
 
 Hvordan temme data og bli faktaorientert? [Blogpost](https://www.innovasjonnorge.no/no/subsites/digIN/datadrevet-utvikling/hvordan-temme-data-og-bli-faktabasert/) på Innovasjon Norge sin digitale blog, 2020 
