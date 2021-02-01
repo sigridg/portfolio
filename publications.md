@@ -1,6 +1,5 @@
 ---
 layout: page
-theme: jekyll-theme-slate
 title: "Publications"
 permalink: /publications/
 ---

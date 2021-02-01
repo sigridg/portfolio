@@ -1,9 +1,11 @@
+
+## Projects 
+For publications look [here](https://sigridg.github.io/portfolio/publications/)
 ### Green reporting in the Norwegian Innovation System (2021)
 Role: project leader
 
 On assignment from the  Ministry of Trade and Fisheries I am the project leader for developing joint indicators for projects with climate and environment effect within the Norwegian Innovation System. The project is a collaboration of the Research Council, SIVA, ENOVA and Innovation Norway.
 
-[Git Repo](https://github.com/sigridg/GreenReporting)
 
 ### Monitoring the Norwegian Innovation System through the Corona pandemic (2020)
 Role: Project leader
