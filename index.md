@@ -1,6 +1,13 @@
 
 ## Projects 
 For publications look [here](https://sigridg.github.io/portfolio/publications/)
+
+### Implementation of SURF Research cloud for the Euroleague of Life Science
+Three NRENs and Five universities collaborate on delivering technical and collaborative solutions for PhD students to analyze their data with R and get easier access to local, national and international compute resources.
+
+Project plan:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/ozrqrzzWhTzaH7m1yKXBDH/SURF-Research-Cloud-POC?node-id=38-756&embed-host=share" allowfullscreen></iframe>
+
 ### Green reporting in the Norwegian Innovation System (2021)
 Role: project leader
 
